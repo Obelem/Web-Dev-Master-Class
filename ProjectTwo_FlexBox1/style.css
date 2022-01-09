@@ -27,6 +27,7 @@ body {
 .logo {
     text-decoration: none;
     font-size: 20px;
+    color: black;
 }
 
 .side-nav {
