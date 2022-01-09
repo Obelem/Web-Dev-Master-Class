@@ -11,14 +11,6 @@ body {
     font-family: 'Source Sans Pro',sans-serif;
 }
 
-/* Reusable Classes */
-
-.orange-accent {
-    color: #e0501b;
-    /* This reusable class is responsible for 
-    all the orange colored text */
-}
-
 
 /* Navigation Bar Style */
 .nav {
@@ -34,7 +26,6 @@ body {
 
 .logo {
     text-decoration: none;
-    color: black;
     font-size: 20px;
 }
 
@@ -49,6 +40,17 @@ body {
     text-decoration: none;
     color: black;
 }
+
+
+
+/* Reusable Classes */
+.orange-accent {
+    color: #e0501b;
+    /* This reusable class is responsible for 
+    all the orange colored text */
+}
+
+
 
 /* Hero Section Style */
 .hero {
